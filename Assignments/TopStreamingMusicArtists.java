@@ -59,7 +59,7 @@ public class TopStreamingMusicArtists {
     }
     // print out the artists name and count how many times the artists name appear in the file
     for(Artist a : artists) {
-      System.out.println(a.getName() + " " + a.getTrack());
+      System.out.println(a.getName() + "\t\t" + a.getTrack());
     }
   }
 }
