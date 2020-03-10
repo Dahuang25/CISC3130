@@ -1,3 +1,16 @@
+/*
+  Author: Da Huang
+  Class: CISC 3130(TY2) - Data Structures
+  Instructor: Katherine Chuang
+  Due Date: 3/7/2020
+*/
+
+/*
+  Assignment 2: Music Playlist
+  The objectives of this assignment is to read multiple file and build a playlist.
+  Also, sort all the song track into alphabetical order
+*/
+
 import java.util.*;
 import java.io.*;
 
